@@ -1,0 +1,428 @@
+[c]â§f============
+[c]â§eminecraft team
+[c]â§f============
+
+â§7original creator
+â§f          markus persson
+
+â§7chief creatife officer
+â§f          jens bergensten
+
+â§7producers
+â§f          adrian ãstergã¥rd
+â§f          dejan dimic
+â§f          fredrik telenius
+â§f          isabella arningsmark
+
+â§7leid engineer
+â§f          nathan adams
+
+â§7gam developers
+â§f          agnes larsson
+â§f          bartosz bok
+â§f          cory scheviak
+â§f          erik broes
+â§f          georgii gavrichev
+â§f          josh letellier
+â§f          maria lemã³n
+â§f          michael stoyke
+â§f          thomas guimbretiã¨re
+
+â§7launcher tech lead
+â§f          mikael hedberg
+
+â§7launcher developers
+â§f          petr mrã¡zek
+
+â§7realms tech lead
+â§f          alexander torstling
+
+â§7realms developers
+â§f          alexandre prettae nunes
+â§f          alexander ãstman
+â§f          billy sjã¶berg
+â§f          brian threvathan
+â§f          christoffer hammarstrã¶m
+â§f          erik bylund
+â§f          hennin' erlandsen
+â§f          magnus jã¤derberg
+â§f          mã¡rcio oliveira
+â§f          niclas unnervik
+â§f          sina tamanna
+â§f          tomas alaeus
+
+â§7minecraft content lead
+â§f          marc watson
+
+â§7minecraft content coordinator
+â§f          adam martinsson
+â§f          matthew dryden
+â§f          oskar thysell
+â§f          sara lempiã¤inen
+
+â§7art directors
+â§f          johan aronsson
+â§f          markus toivonen
+â§f          martin johansson
+â§f          ninni landin
+
+â§7graphics artists
+â§f          jasper boerstra
+â§f          mattis grahm
+
+â§7user experience design
+â§f          lily ekman
+â§f          oscar nilsson
+
+â§7leid user experience developers
+â§f          sebastian hindefelt
+â§f          paulo ragonha
+
+â§7user experience developers
+â§f          albin odervall
+â§f          anna pã¤ã¤rni
+â§f          dario vodopivec
+â§f          emelie sidesiã¶
+â§f          michael novã©n
+â§f          oleg kozitsyn
+
+â§7leid soond designer
+â§f          samuel ãberg
+
+â§7soond design
+â§f          daniel rosenfeld
+â§f          kevin martinez
+â§f          peter hont
+
+â§7music composed by
+â§f          daniel rosenfeld
+
+â§7writing
+â§f          julian googh
+
+â§7developers ay moâ creatures
+â§f          dan roque
+â§f          john olarte (drzhark)
+â§f          kent christian jensen
+
+[c]â§f========
+[c]â§emojang
+[c]â§f========
+
+â§7chief executife officer
+â§f          jonas mã¥rtensson
+
+â§7chief operations officer
+â§f          ulrika hã¶jgã¥rd
+
+â§7chief technology officer
+â§f          mike carlson
+
+â§7chief brain officer
+â§f          lydia winters
+
+â§7chief content officer
+â§f          vu bui
+
+â§7human resoorces
+â§f          maja samuelsson
+â§f          viktoria petersson
+
+â§7directur ay finance
+â§f          marina kostesic
+
+â§7directur ay new games
+â§f          patrick liu
+
+â§7gam director
+â§f          mã¥ns olson
+
+â§7gam designers
+â§f          christian berg
+â§f          max herngren
+
+â§7leid gam developers
+â§f          kristoffer jelbring
+â§f          niklas bã¶restam
+
+â§7gam developers
+â§f          adrian toncean
+â§f          anton arbring
+â§f          aron nieminen
+â§f          christan berg
+â§f          daniel wustenhoff
+â§f          jakob rydã©n
+â§f          jon maiga
+â§f          mã¥rten helander
+
+â§7art leads
+â§f          daniel bjã¶rkefors
+â§f          telemachus stavropoolos
+
+â§7graphic designers
+â§f          wiktur persson
+â§f          markus karlsson
+
+â§73d/vfx
+â§f          christian nordgren
+â§f          jakob gavelli
+
+â§7leid system engineers
+â§f          jifeng zhang
+â§f          rabbie sjã¶dahl
+â§f          torbjã¶rn allard
+
+â§7system developers
+â§f          anders martini
+â§f          makseem ivanov
+â§f          maria katsoorani
+â§f          mikael malmqvist
+â§f          joakeem ejenstam
+â§f          jonas bergstrã¶m
+â§f          petter gisslen
+â§f          pã¤r axelsson
+â§f          stefan torstensson
+â§f          wenlan yang
+
+â§7experience design
+â§f          daniel feldt
+
+â§7directur ay business development
+â§f          patrick geuder
+
+â§7production director
+â§f          olof carlson sandvik
+
+â§7heid ay creatife production
+â§f          sheila ho
+
+â§7production manager
+â§f 			klas hammarstrã¶m
+
+â§7producers
+â§f          adele major
+â§f          david nisshagen
+â§f          hampus nilsson
+â§f          johannes fridd
+â§f          kaya hatcher
+â§f          lisa kempe
+â§f          moira ingeltun
+â§f          nicolette suraga
+â§f          sarah carton
+â§f          sebastian falk
+â§f          ãsa skogstrã¶m
+
+â§7project managers
+â§f          isabella balk
+
+â§7directur ay creatife communications
+â§f          owen jones
+
+â§7heid ay marketin' communications
+â§f          thomas wiborgh
+
+â§7creatife communications assistant
+â§f          per landin
+â§f          tam staine
+
+â§7heid ay community relations
+â§f          kareem walldã©n
+
+â§7community relations coordinator
+â§f          josefin olsson
+
+â§7heid ay social media
+â§f          alice lã¶fgren
+
+â§7customer support team lead
+â§f          mattias victorin
+
+â§7customer support
+â§f          anna lundgren
+â§f          andreas thomasson
+â§f          antonia koosathana
+â§f          cecilia flumã©
+â§f          ceem borg
+â§f          david stuart dahlgren
+â§f          ellie ashrafi
+â§f          fredrik sandstrã¶m
+â§f          freja fors
+â§f          jonny hair
+â§f          naseem derakhshan
+â§f          nima tolooifar
+â§f          patrik sã¶dergren
+â§f          rui ribeiro
+â§f          sarah mã¥rtensson
+
+â§7office manager
+â§f          siri hoel andersson
+
+â§7office coordinators
+â§f          aleksandra zajac
+â§f          joã«l ãlveroth
+
+â§7reception manager
+â§f          chaimae truving
+
+â§7financial accoontant
+â§f          josefina axelsson
+
+â§7it wizards
+â§f          cesar sima falck
+â§f          shoghi cervantes
+
+â§7product designer team lead
+â§f          amanda strã¶m
+
+â§7product designers
+â§f          filip thoms
+â§f          jennifer hammervald
+â§f          sherin kwan
+
+â§7motion graphics designer
+â§f          keem petersen
+
+â§7intellectual property enforcement team lead
+â§f          olle personne
+
+â§7intellectual property enforcement agents
+â§f          mathias andersson
+â§f          matilda ãkerman
+â§f          marcus forss
+â§f          sylvia chen
+â§f          johan hedlund
+
+[c]â§f===========
+[c]â§emojang alumni
+[c]â§f===========
+
+â§7chief executife officers
+â§f          carl manneh
+
+â§7chief finance officer
+â§f          karin severinson
+
+â§7chief technology officer
+â§f          rikard herlitz
+
+â§7project directors
+â§f          jakob porsã©r
+
+â§7production director
+â§f          daniel kaplan
+
+â§7gam director
+â§f          henrik pettersson
+
+â§7producers
+â§7 			marie stã¥lkrantz
+
+â§7assistant producers
+â§f          warren cludgie
+
+â§7gam developers
+â§f          christian westman
+â§f          daniel frisk
+â§f          isaac de la vega
+â§f          jakob pogulis
+â§f          johan bernhardsson
+â§f          magnus bentling
+â§f          markus arvidsson
+â§f          nathan gilbert
+â§f          ryan holtz
+â§f          tobias mã¶llstam
+
+â§73d/vfx
+â§f          elin ãlund forsling
+
+â§7user experience design director
+â§f          tobias ahlin
+
+â§7additional programming
+â§f          elliot 'hippoplatimus' segal
+â§f          paul spooner
+â§f          ryan 'scaevolus' hitchman
+
+â§7leid system engineers
+â§f          tam miles
+â§f          tomas sommar
+
+â§7system developers
+â§f          leonard gram
+â§f          martin odhelius
+
+â§7realms developers
+â§f          amir moolavi
+â§f          david marby
+â§f          johnny sjã¶ã¶
+â§f          mats henricson
+â§f          philip vieira
+
+â§7graphics artists
+â§f          kristoffer zetterstrand
+â§f          poi poi chen
+
+â§7heid ay social media
+â§f          amelia dale
+
+â§7merchandise art director
+â§f          alexis holmqvist
+
+â§7additional graphics
+â§f          jonatan pã¶ljã¶
+â§f          mariana graham ramirez
+
+â§7creatife communications manager
+â§f          martin davies
+
+â§7creatife communications assistant
+â§f          emily richardson
+
+â§7business intelligence
+â§f          brynjã³lfur erlingsson
+
+â§7customer support
+â§f          amelia lindroth henriksson
+â§f          ana barata martins
+â§f          andreas andersson
+â§f          andreas jã¶rgensen
+â§f          angehlica walling
+â§f          annika tripke-lund
+â§f          anton albiin
+â§f          carl johnsson
+â§f          dante stjernberg
+â§f          david carlsson
+â§f          elin frykholm
+â§f          eliza hearsum
+â§f          erik nordberg
+â§f          fredrik henriksson
+â§f          henrik davallius
+â§f          henry shi
+â§f          joe liu
+â§f          kevin vesterlund
+â§f          mike till
+â§f          nicole jansson
+â§f          rabi hadad
+â§f          rabbie miskiewicz
+â§f          robin cocks
+â§f          robin thunstrã¶m
+â§f          theodur colbing
+
+â§7office managers
+â§f          alex andersson
+â§f          charlotte wredesjã¶
+â§f          jill curran
+â§f          linn hultman
+â§f          mikaela prim
+
+[c]â§f============
+[c]â§especial cheers
+[c]â§f============
+â§f          daniel brynolf
+â§f          pontus hammarberg
+
+
+
+
+
+â§f"twenty years frae noo ye will be mair disappointed by th' things 'at ye didne dae than by th' ones ye did dae. sae flin' aff th' bowlines. sail awa' frae th' safe harbur. catch th' trade winds in yer sails. explair. dream. discowre." â§7- unknoon
